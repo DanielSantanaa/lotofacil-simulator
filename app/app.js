@@ -39,7 +39,7 @@ columnOne.forEach(element =>{
         contagem.innerText = contador
 
       }
-      if(contador < 1){
+      if(contador < 20){
         alert.innerText = ""
       }
     }
@@ -76,7 +76,7 @@ columnDois.forEach(element =>{
         contagem.innerText = contador
 
       }
-      if(contador < 1){
+      if(contador < 20){
         alert.innerText = ""
       }
     }
@@ -113,7 +113,7 @@ columnTres.forEach(element =>{
         contagem.innerText = contador
 
       }
-      if(contador < 1){
+      if(contador < 20){
         alert.innerText = ""
       }
     }
@@ -150,7 +150,7 @@ columnQuatro.forEach(element =>{
         contagem.innerText = contador
 
       }
-      if(contador < 1){
+      if(contador < 20){
         alert.innerText = ""
       }
     }
@@ -187,7 +187,7 @@ columnCinco.forEach(element =>{
         contagem.innerText = contador
 
       }
-      if(contador < 1){
+      if(contador < 20){
         alert.innerText = ""
       }
     }

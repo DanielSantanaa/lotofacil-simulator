@@ -1,0 +1,25 @@
+.table-lotofacil{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.table-lotofacil > div> div{
+  border: 1px solid;
+  margin: 5px;
+  padding: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  border-color: rgb(191, 194, 193);
+}
+
+
+.cor{
+  background-color: rgb(129, 245, 163);
+}
+
+
+.alert{
+  color: rgb(224, 36, 36);
+}
